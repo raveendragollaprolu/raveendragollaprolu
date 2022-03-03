@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @raveendragollaprolu.
 - 👀 I’m interested in github,gitlab,bigbucket.
-- 🌱 I’m currently learning aws and linux..
+- 🌱 I’m I have 3 years of experiance as a devops engineer
 - 💞️ I’m looking to collaborate on developers and testing team.
 - 📫 How to reach me  anyway u can teach me.
 
